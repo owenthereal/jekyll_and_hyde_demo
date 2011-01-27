@@ -6,6 +6,12 @@ Wiki: [https://github.com/jingweno/jekyll_and_hyde/wiki][2]
 
 Issue: [https://github.com/jingweno/jekyll_and_hyde/issues][3]
 
+Jekyll: [https://github.com/mojombo/jekyll][4]
+
+Slippy: [https://github.com/Seldaek/slippy][5]
+
 [1]: https://github.com/jingweno/jekyll_and_hyde
 [2]: https://github.com/jingweno/jekyll_and_hyde/wiki
 [3]: https://github.com/jingweno/jekyll_and_hyde/issues
+[4]: https://github.com/mojombo/jekyll
+[5]: https://github.com/Seldaek/slippy
