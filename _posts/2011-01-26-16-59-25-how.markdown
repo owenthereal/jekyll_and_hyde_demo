@@ -2,7 +2,6 @@
 
 Installation:
 
-	> gem install jekyll
 	> gem install jekyll_and_hyde
 
 Generation:
@@ -13,5 +12,6 @@ Generation:
 
 Other tasks:
 	
+	> jh github
 	> jh list [SEARCH]
 	> jh help [TASK]
