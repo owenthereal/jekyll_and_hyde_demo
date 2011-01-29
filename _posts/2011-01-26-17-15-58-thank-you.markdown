@@ -2,8 +2,9 @@
 
 ## Any question?
 
-Ping me on Twitter [@JingwenOwenOu][1]
-
+<div class="center" markdown="1">
+	Ping me on Twitter [@JingwenOwenOu][1]
+</div>
 
 <div class="footer">
 	<span class="left">Use space bar or arrow keys to navigate, and escape for index</span>
