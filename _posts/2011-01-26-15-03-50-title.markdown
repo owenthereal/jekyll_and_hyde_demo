@@ -1,9 +1,9 @@
-# jekyll_and_hyde
+# Cook up presentations with jekyll_and_hyde
 
 ## Jingwen Owen Ou
 ## [@JingwenOwenOu][1]
 ## [http://owenou.com][2]
-## 26 January 2011
+## 29 January 2011
 
 <div class="licence" markdown="1">
 	[![Creative Commons License](http://i.creativecommons.org/l/by-sa/3.0/88x31.png)][3]

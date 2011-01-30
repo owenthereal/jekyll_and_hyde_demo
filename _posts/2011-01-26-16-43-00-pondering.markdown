@@ -1,0 +1,15 @@
+# Pondering
+
+<div class="center" markdown="1">
+Jekyll: Markdown or Textile => HTML
+	
+Slippy: HTML => Presentations on browsers
+</div>
+
+<div class="center" markdown="1">
+	![Pondering](images/pondering.png)
+</div>
+
+<div class="center" markdown="1">
+	Jekyll + Slippy = ?
+</div>

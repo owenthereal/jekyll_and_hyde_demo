@@ -1,0 +1,5 @@
+# Introducing jekyll_and_hyde
+
+<div class="center" markdown="1">
+	![Light-bulbs](images/light_bulbs.png)
+</div>
