@@ -2,6 +2,8 @@
 
 Source code: [https://github.com/jingweno/jekyll_and_hyde][1]
 
+Screencast: [http://vimeo.com/jingwenowenou/cook-up-presentations-with-jekyllandhyde][6]
+
 Wiki: [https://github.com/jingweno/jekyll_and_hyde/wiki][2]
 
 Issue: [https://github.com/jingweno/jekyll_and_hyde/issues][3]
@@ -15,3 +17,4 @@ Slippy: [https://github.com/Seldaek/slippy][5]
 [3]: https://github.com/jingweno/jekyll_and_hyde/issues
 [4]: https://github.com/mojombo/jekyll
 [5]: https://github.com/Seldaek/slippy
+[6]: http://vimeo.com/jingwenowenou/cook-up-presentations-with-jekyllandhyde
